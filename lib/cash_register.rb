@@ -33,4 +33,7 @@ class CashRegister
    
   end 
   
+<<<<<<< HEAD
   
+=======
+>>>>>>> 84bac4b53ca4fb572b4463e1cbafa3366e7f2530
